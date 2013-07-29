@@ -6,7 +6,7 @@ Gem::Specification.new do |gem|
   gem.version     = CapistranoResque::VERSION.dup
   gem.author      = "Steven Shingler"
   gem.email       = "shingler@gmail.com"
-  gem.homepage    = "https://github.com/sshingler/capistrano-resque"
+  gem.homepage    = "https://github.com/jcblitz/capistrano-resque"
   gem.summary     = %q{Resque integration for Capistrano}
   gem.description = %q{Capistrano plugin that integrates Resque server tasks.}
 
